@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Proyecto_Integrador">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Proyecto_Integrador.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
